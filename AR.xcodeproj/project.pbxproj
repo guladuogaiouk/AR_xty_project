@@ -12,6 +12,8 @@
 		580AE5972C1C4207003C1025 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 580AE5962C1C4207003C1025 /* Assets.xcassets */; };
 		580AE59A2C1C4207003C1025 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 580AE5992C1C4207003C1025 /* Preview Assets.xcassets */; };
 		587CE36D2C1C435A0072AA0D /* 1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 587CE36C2C1C435A0072AA0D /* 1.mp4 */; };
+		587CE3712C1C48710072AA0D /* 3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 587CE3702C1C48710072AA0D /* 3.mp4 */; };
+		587CE3732C1C86320072AA0D /* 2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 587CE3722C1C86320072AA0D /* 2.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		580AE5962C1C4207003C1025 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		580AE5992C1C4207003C1025 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		587CE36C2C1C435A0072AA0D /* 1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 1.mp4; path = ../../../../1.mp4; sourceTree = "<group>"; };
+		587CE3702C1C48710072AA0D /* 3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 3.mp4; path = ../../../../3.mp4; sourceTree = "<group>"; };
+		587CE3722C1C86320072AA0D /* 2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 2.mp4; path = ../../../../2.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +77,8 @@
 		587CE36B2C1C434E0072AA0D /* videos */ = {
 			isa = PBXGroup;
 			children = (
+				587CE3722C1C86320072AA0D /* 2.mp4 */,
+				587CE3702C1C48710072AA0D /* 3.mp4 */,
 				587CE36C2C1C435A0072AA0D /* 1.mp4 */,
 			);
 			path = videos;
@@ -136,8 +142,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				587CE3732C1C86320072AA0D /* 2.mp4 in Resources */,
 				587CE36D2C1C435A0072AA0D /* 1.mp4 in Resources */,
 				580AE59A2C1C4207003C1025 /* Preview Assets.xcassets in Resources */,
+				587CE3712C1C48710072AA0D /* 3.mp4 in Resources */,
 				580AE5972C1C4207003C1025 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
